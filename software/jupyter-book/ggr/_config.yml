@@ -34,6 +34,13 @@ repository:
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
-  use_issues_button: true
-  use_repository_button: true
+# html:
+#   use_issues_button: true
+#   use_repository_button: true
+
+launch_buttons:
+  jupyterhub_url: "https://jupyter.utoronto.ca"
+
+repository:
+  url: https://github.com/UofTCompDSci/ggr274-20231
+  branch: main
