@@ -39,8 +39,9 @@ repository:
 #   use_repository_button: true
 
 launch_buttons:
+  binderhub_url: ""
   jupyterhub_url: "https://jupyter.utoronto.ca"
 
 repository:
   url: https://github.com/UofTCompDSci/ggr274-20231
-  branch: gh-pages
+  branch: main
