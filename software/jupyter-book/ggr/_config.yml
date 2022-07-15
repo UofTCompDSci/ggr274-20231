@@ -43,4 +43,4 @@ launch_buttons:
 
 repository:
   url: https://github.com/UofTCompDSci/ggr274-20231
-  branch: main
+  branch: gh-pages
