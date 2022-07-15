@@ -4,9 +4,9 @@
 format: jb-book
 root: book-materials/ggr/intro
 parts:
-  - caption: Syllabus
+  - caption: Course Syllabus
     chapters:
-    - file: syllabus/20221/ggr/syllabus_GGR274_ver2_4Jan2022.ipynb
+    - file: syllabus/20231/ggr/ggr274_syllabus.ipynb
 
   - caption: Software Guides
     chapters:
