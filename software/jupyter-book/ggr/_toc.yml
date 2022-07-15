@@ -1,0 +1,81 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: book-materials/ggr/intro
+parts:
+  - caption: Syllabus
+    chapters:
+    - file: syllabus/20221/ggr/syllabus_GGR274_ver2_4Jan2022.ipynb
+
+  - caption: Software Guides
+    chapters:
+    - file: software/20231/jupyterhub_guide.ipynb
+    - file: software/20231/markus_guide.ipynb
+
+  - caption: Week 1
+    chapters:
+    - file: weekly-materials/20231/week01/lecture/ggr/lecture1_statsandds
+    - file: weekly-materials/20231/week01/lecture/ggr/lecture1_computation
+    - file: weekly-materials/20231/week01/lab/ggr/marking/Lab_1
+    - file: weekly-materials/20231/week01/homework/ggr/marking/Homework_1
+
+  - caption: Week 2
+    chapters:
+    - file: weekly-materials/20231/week02/lecture/ggr/lecture2
+    - file: weekly-materials/20231/week02/lab/common/marking/Lab_2
+    - file: weekly-materials/20231/week02/homework/ggr/marking/Homework_2
+
+  - caption: Week 3
+    chapters:
+    - file: weekly-materials/20231/week03/lecture/ggr/lecture3
+    - file: weekly-materials/20231/week03/lab/ggr/marking/Lab_3
+    - file: weekly-materials/20231/week03/homework/ggr/marking/Homework_3
+
+  - caption: Week 4
+    chapters:
+    - file: weekly-materials/20231/week04/lecture/ggr/lecture4
+    - file: weekly-materials/20231/week04/lab/ggr/marking/Lab_4
+    - file: weekly-materials/20231/week04/homework/ggr/marking/Homework_4
+
+  - caption: Week 5
+    chapters:
+    - file: weekly-materials/20231/week05/lecture/ggr/lecture5
+    - file: weekly-materials/20231/week05/lab/ggr/marking/Lab_5
+    - file: weekly-materials/20231/week05/homework/ggr/marking/Homework_5
+
+  - caption: Week 6 (midterm)
+    chapters:
+    - url: https://github.com/UofTCompDSci/cds-course-materials
+      title: TODO
+
+  - caption: Week 7
+    chapters:
+    - file: weekly-materials/20231/week07/lecture/ggr/lecture6
+    - file: weekly-materials/20231/week07/lab/ggr/marking/Lab_7
+    - file: weekly-materials/20231/week07/homework/ggr/marking/Homework_7
+
+  - caption: Week 8
+    chapters:
+    - file: weekly-materials/20231/week08/lecture/ggr/lecture7
+    - file: weekly-materials/20231/week08/lab/ggr/marking/Lab_8
+
+  - caption: Week 9
+    chapters:
+    - file: weekly-materials/20231/week09/lecture/ggr/lecture8
+    - file: weekly-materials/20231/week09/lab/ggr/public/Lab_9
+
+  - caption: Week 10
+    chapters:
+    - url: https://github.com/UofTCompDSci/cds-course-materials
+      title: TODO
+
+  - caption: Week 11
+    chapters:
+    - url: https://github.com/UofTCompDSci/cds-course-materials
+      title: TODO
+
+  - caption: Week 12
+    chapters:
+    - url: https://github.com/UofTCompDSci/cds-course-materials
+      title: TODO
